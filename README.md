@@ -1,5 +1,7 @@
 # Spectral diffusion for Landlab
 
+[![DOI](https://zenodo.org/badge/228652941.svg)](https://zenodo.org/badge/latestdoi/228652941)
+
 This code implements a spectral method for linear hillslope diffusion and
 applies it to a few landscape evolution cases in Landlab. The base
 functions can also be applied to calculate diffusion of any variable of interest
